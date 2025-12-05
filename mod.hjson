@@ -1,0 +1,37 @@
+name: unit-namer
+
+displayName: "Unit Namer"
+
+author: "[#00D4FF[]]SamielXD"
+
+description:
+  '''
+[accent[]] [#FFD700[]]Unit Namer[white[]]  - Give Your Units Personality!
+
+[white[]]Transform your gameplay by giving every unit a unique, custom name that follows them across the battlefield. Perfect for organizing squads, tracking your favorites, or just having fun!
+
+[gray[]]Note still in beta so expect some bugs also don't click the reset default its bugged
+
+[accent[]] [#00D4FF[]]Features:
+  [white[]] Tap any unit to open the rename menu
+  [white[]] Custom names float elegantly above your units
+  [white[]] Names persist as long as the unit lives
+  [white[]] Simple one-tap interface - no complex commands
+
+[accent[]] [#FFD700[]]How to Use:
+  [#BFBFBF[]] 1. Tap on any unit in the game
+  [#BFBFBF[]] 2. Click "Rename Unit" in the popup
+  [#BFBFBF[]] 3. Enter your custom name
+  [#BFBFBF[]] 4. Watch your named unit in action!
+
+[accent[]] [#00D4FF[]]Pro Tips:
+  [white[]] • Name your tank squadrons (Alpha, Bravo, Charlie)
+  [white[]] • Track powerful units with special names
+  [white[]] • Organize attack groups with themed names
+  [white[]] • Have fun with personality names for your favorites!
+  '''
+
+version: "1.0"
+
+minGameVersion: 153
+repo: SamielXD/UnitNamerMod
