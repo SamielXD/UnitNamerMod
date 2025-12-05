@@ -1,66 +1,33 @@
 # UnitNamerMod
 
-**UnitNamerMod** is a Mindustry mod created by **SamielXD** that adds custom naming functionality for units.  
-This mod allows players to assign unique names to specific units, improving organization, clarity, and fun during gameplay.
-
----
+**UnitNamerMod** is a Mindustry mod that lets you assign custom names to units. It’s built for players who want clearer control, better identification, and easier management during gameplay. ⚙️
 
 ## ✨ Features
 
-- 📝 **Custom unit names** — Assign special names to any unit.  
-- 🎮 **Better management** — Easily identify specific units during battle.  
-- 🔧 **Lightweight and compatible** — Works alongside most other Mindustry mods.  
-- 🚀 **Simple to use** — No complex setup required.
+- 📝 Assign custom names to individual units  
+- 🎯 Easily track and identify key units during battles  
+- 📦 Lightweight and compatible with most other mods  
+- 🔧 Simple, straightforward setup
 
----
+## 📥 Installation
 
-## 📦 Installation
-
-### **Method 1 — In-Game**
-1. Open **Mindustry 1.153**  
+### **In-Game Method**  
+1. Open **Mindustry 153**  
 2. Go to **Mods**  
-3. Click **Import Mod**  
-4. Select the downloaded `.zip` file for UnitNamerMod
+3. Select **Import Mod**  
+4. Choose the downloaded `.zip` file
 
-### **Method 2 — Manual**
-1. Download the `.zip` from the **Releases** page  
-2. Place it inside your Mindustry `/mods/` folder  
+### **Manual Method**  
+1. Download the `.zip` from the **Releases** section  
+2. Place it inside the Mindustry `/mods/` folder  
 3. Restart the game
-
----
 
 ## 📁 Download
 
-▶ **Latest release:**  
-Check the *Releases* section on the right side of this repository.
+Check the **Releases** section for the latest version.
 
----
+## 🔌 Compatibility
 
-## 🛠 Compatibility
-
-- Made for **Mindustry v1.153**  
-- Works on desktop & mobile  
-- Compatible with most content mods for 1.153
-
----
-
-## 📜 License
-
-This mod is licensed under **All Rights Reserved**.
-
-You may **not**:
-- Reupload this mod  
-- Modify or redistribute any files  
-- Use assets or code in other projects  
-
-For personal gameplay use only.
-
----
-
-## 🙌 Credits
-
-Developed by **SamielXD**
-
----
-
-Enjoy the mod! If you have bugs or suggestions, feel free to open an **Issue** on GitHub.
+- Built for **Mindustry 153**  
+- Works on mobile and desktop  
+- Generally compatible with most content mods for 153
