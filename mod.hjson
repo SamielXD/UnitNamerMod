@@ -1,0 +1,73 @@
+name: "unit-namer"
+
+displayName: "Unit Namer"
+
+author: "[#00D4FF[]]SamielXD[[]]"
+
+description:
+  '''
+[accent[]] [#FFD700[]]Unit Namer v1.1[[]] - Give Your Units Personality!
+
+[white[]]Transform your gameplay by naming every unit with custom names, colors, and icons that follow them across the battlefield. Perfect for organizing squads, tracking favorites, or just having fun![[]]
+
+[gray[]]Note: Still in beta, expect some bugs. Avoid clicking "Reset to Default" - it's currently bugged.[[]]
+
+[accent[]] [#00D4FF[]]✨ New in v1.1:[[]]
+  [lime[]]• Icon System - Add symbols to your unit names[[]]
+  [lime[]]• Name Packs - Browse preset name collections[[]]
+  [lime[]]• Backup System - Save and restore your collections (3 slots)[[]]
+  [lime[]]• Smart Alerts - Get notified when named units are low health[[]]
+  [lime[]]• Tutorial System - Interactive guide for new users[[]]
+  [lime[]]• Name Validation - Auto-capitalize and content filtering[[]]
+  [lime[]]• Export/Import - Share your naming collections[[]]
+
+[accent[]] [#FFD700[]]Core Features:[[]]
+  [white[]]• Tap any unit to open the rename menu[[]]
+  [white[]]• Custom names with 12 vibrant colors[[]]
+  [white[]]• 16 symbols to personalize your units (⚔️, ⚡, ★, etc.)[[]]
+  [white[]]• Names float above units[[]]
+  [white[]]• Names persist as long as the unit lives[[]]
+  [white[]]• Quick names menu with templates and history[[]]
+  [white[]]• Adjustable name size (10-90)[[]]
+  [white[]]• Filter: Show only your team's units[[]]
+  [white[]]• Auto-save every 10 seconds[[]]
+
+[accent[]] [#00D4FF[]]How to Use:[[]]
+  [#BFBFBF[]]1. Tap on any unit in the game[[]]
+  [#BFBFBF[]]2. Choose from rename, color, icon, or quick names[[]]
+  [#BFBFBF[]]3. Enter your custom name (auto-capitalizes)[[]]
+  [#BFBFBF[]]4. Watch your personalized unit in action![[]]
+
+[accent[]] [#FFD700[]]Pro Tips:[[]]
+  [white[]]• Use military names for tank squadrons (Alpha, Bravo, Charlie)[[]]
+  [white[]]• Track powerful units with star symbols ★[[]]
+  [white[]]• Organize attack groups with themed colors[[]]
+  [white[]]• Save backups before risky missions[[]]
+  [white[]]• Check settings for alerts and customization[[]]
+  [white[]]• Export your collection to share with friends![[]]
+
+[accent[]] [#00D4FF[]]Quick Names Templates:[[]]
+  [white[]]Scout • Guard • Attack • Defense • Support[[]]
+
+[accent[]] [#FFD700[]]Name Pack Themes:[[]]
+  [red[]]⚔️ Military[[]] [blue[]]🔢 Numbers[[]] [green[]]🎨 Colors[[]] [yellow[]]⚙️ Roles[[]] [cyan[]]🌊 Nature[[]]
+
+[accent[]] [#00D4FF[]]Settings Menu Options:[[]]
+  [white[]]• Enable/Disable the mod[[]]
+  [white[]]• Show only your team's units[[]]
+  [white[]]• Auto-capitalize names[[]]
+  [white[]]• Health alerts on/off[[]]
+  [white[]]• Name size slider (10-90)[[]]
+  [white[]]• Tutorial toggle[[]]
+  [white[]]• Backup management (3 slots)[[]]
+  [white[]]• Name pack browser[[]]
+  [white[]]• Export/Import system[[]]
+
+[gray[]]Report bugs or suggest features on GitHub[[]]
+  '''
+
+version: "1.1"
+
+minGameVersion: 153
+
+repo: "SamielXD/UnitNamerMod"
