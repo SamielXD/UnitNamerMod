@@ -31,3 +31,8 @@ Check the **Releases** section for the latest version.
 - Built for **Mindustry 153**  
 - Works on mobile and desktop  
 - Generally compatible with most content mods for 153
+
+## 🌟 Goals
+- goal: 2/3 stars
+- goal: 4/10 downloads
+- goal: 2/3, releases
