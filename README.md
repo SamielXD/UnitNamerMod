@@ -35,4 +35,4 @@ Check the **Releases** section for the latest version.
 ## 🌟 Goals
 - goal: 2/3 stars
 - goal: 4/10 downloads
-- goal: 2/3, releases
+- goal: 2/3 releases
